@@ -1,0 +1,31 @@
+/*-- GLOBAL TEMPLATE STYLES */
+
+table {
+    border: 1px solid #DBE5DF;
+}
+
+thead {
+
+    background: #DBE5DF;
+}
+
+tr,
+td {
+    border: 1px solid #DBE5DF;
+}
+
+.action-link {
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #DBE5DF;
+    padding: 6px 10px;
+    border-radius: 3px;
+    color: black;
+}
+
+.action-link:hover {
+    text-decoration: none;
+    background: #B6E5CA;
+
+}
